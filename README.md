@@ -1,2 +1,2 @@
-# Merge-Conflicts
+LOCAL
 Hello World is me.
